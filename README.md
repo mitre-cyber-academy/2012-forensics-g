@@ -1,5 +1,7 @@
 MITRE STEM CTF Summer 2012
+
 Forensics 500 – Multi-Level Steganography
+
 Flag: MCA-00E438E8
 
 Description of challenge:
