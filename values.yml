@@ -1,0 +1,6 @@
+name: "TV on the Fritz"
+description: |
+  It looks like our favourite show isn't coming in... or is [it](http://$static_file_server/fg-1db66fc00f4b473c95079b0167627886/image.bmp)?
+  
+  MD5: a484c47b067c0d6ae34cbf67014918fc
+flag: "MCA-00E438E8"
